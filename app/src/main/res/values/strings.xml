@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Buku Non Fiksi</string>
+    <string name="books_name">Nama Buku</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string-array name="data_name">
+        <item>Atomic Habits</item>
+        <item>Bicara Itu Ada Seninya</item>
+        <item>Berani Tidak Disukai</item>
+        <item>Good Vibes Good Life</item>
+        <item>Jangan Membuat Masalah Kecil Jadi Masalah Besar</item>
+        <item>Sebuah Seni Untuk Bersikap Bodo Amat</item>
+        <item>The Magic Of Thinking Big</item>
+        <item>The Psychology of Money</item>
+        <item>The Power Of Habit</item>
+        <item>Filosofi Teras</item>
+    </string-array>
+    <string-array name="data_author">
+        <item>Henry Manampiring</item>
+        <item>Oh Su Hyang</item>
+        <item>Ichiro Kishimi dan Fumitake Koga</item>
+        <item>Vex King</item>
+        <item>Richard Carlson</item>
+        <item>Mark Manson</item>
+        <item>David J. Schwartz</item>
+        <item>Morgan Housel</item>
+        <item>Charles Duhigg</item>
+        <item>Henry Manampiring</item>
+    </string-array>
+    <string-array name="data_publisher">
+        <item>PT Kompas Media Nusantara</item>
+        <item>Bhuana Ilmu Populer (BIP) Kelompok Gramedia</item>
+        <item>Agnes Cynthia</item>
+        <item>PT. Bentara Aksara Cahaya </item>
+        <item>Gramedia Pustaka Utama</item>
+        <item>Gramedia Widiasarana Indonesia</item>
+        <item>Mic Publishing</item>
+        <item>PT. Bentara Aksara Cahaya </item>
+        <item>Kepustakaan Populer Gramedia</item>
+        <item>PT Kompas Media Nusantara</item>
+    </string-array>
+    <string-array name="data_publicationYear">
+        <item>2018</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2016</item>
+        <item>2013</item>
+        <item>2020</item>
+        <item>2012</item>
+        <item>2018</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Atomic Habits: Perubahan Kecil yang Memberikan Hasil Luar Biasa adalah buku kategori self improvement karya James Clear. Pada umumnya, perubahan-perubahan kecil seringkali terkesan tak bermakna karena tidak langsung membawa perubahan nyata pada hidup suatu manusia. Jika diumpamakan sekeping koin tidak bisa menjadikan kaya, suatu perubahan positif seperti meditasi selama satu menit atau membaca buku satu halaman setiap hari mustahil menghasilkan perbedaan yang bisa terdeteksi. Namun hal tersebut tidak sejalan dengan pemikiran James Clear, ia merupakan seorang pakar dunia yang terkenal dengan kebiasaan. Ia tahu bahwa tiap perbaikan kecil bagaikan menambahkan pasir ke sisi positif timbangan dan akan menghasilkan perubahan nyata yang berasal dari efek gabungan ratusan bahkan ribuan keputusan kecil. Ia menamakan perubahan kecil yang membawa pengaruh yang luar biasa dengan nama atomic habits. Sebuah sistem revolusioner untuk menjadi 1 persen lebih baik setiap hari. Orang mengira ketika Anda ingin mengubah hidup, Anda perlu memikirkan hal-hal besar. Namun pakar kebiasaan terkenal kelas dunia James Clear telah menemukan sebuah cara lain. Ia tahu bahwa perubahan nyata berasal dari efek gabungan ratusan keputusan kecil—dari mengerjakan dua push-up sehari, bangun lima menit lebih awal, sampai menahan sebentar hasrat untuk menelepon. Ia menyebut semua tadi atomic habits. Dalam buku terobosan ini, Clear pada hakikatnya mengungkapkan bagaimana perubahan perubahan sangat remeh ini dapat tumbuh menjadi hasil-hasil yang sangat mengubah hidup. Ia menyingkap beberapa trik sederhana dalam hidup kita (seni Menumpuk Kebiasaan yang terlupakan, kekuatan tak terduga Aturan Dua Menit, atau trik untuk masuk ke dalam Zona Goldilocks), dan menggali ke dalam teori psikologi dan neurosains paling baru untuk menerangkan mengapa semua itu penting. Dalam rangka itu, ia menceritakan kisah-kisah inspiratif para peraih medali emas Olimpiade, para CEO terkemuka, dan ilmuwan-ilmuwan istimewa yang telah menggunakan sains tentang kebiasaan-kebiasaan kecil untuk tetap produktif, tetap termotivasi, dan bahagia. Perubahan-perubahan kecil ini akan mendatangkan pengaruh revolusioner pada karier Anda, hubungan pribadi Anda, dan hidup Anda.</item>
+        <item>Bicara itu Ada Seninya atau The Secret Habits To Master Your Art of Speaking merupakan buku karya Oh Su Hyang, seorang dosen dan pakar komunikasi asal Korea Selatan. Buku ini berisi tentang pengalaman pengembangan diri, teknik komunikasi, persuasi dan negosiasi. Buku bersampul hitam ini akan menjawab pertanyaan: Bagaimana cara berbicara/berucap yang baik? Ucapan yang baik adalah ucapan yang dapat menggetarkan hati.</item>
+        <item>Berani Tidak Disukai, yang sudah terjual lebih dari 3,5 juta eksemplar, mengungkap rahasia mengeluarkan kekuatan terpendam yang memungkinkan Anda meraih kebahagiaan yang hakiki dan menjadi sosok yang Anda idam-idamkan. Apakah kebahagiaan adalah sesuatu yang Anda pilih? Berani Tidak Disukai menyajikan jawabannya secara sederhana dan langsung. Berdasarkan teori Alfred Adler, satu dari tiga psikolog terkemuka abad kesembilan belas selain Freud dan Jung, buku ini mengikuti percakapan yang menggugah antara seorang filsuf dan seorang pemuda. Dalam lima percakapan yang terjalin, sang filsuf membantu muridnya memahami bagaimana masing-masing dari kita mampu menentukan arah hidup kita, bebas dari belenggu trauma masa lalu dan beban ekspektasi orang lain. Buku yang kaya kebijaksanaan ini akan memandu Anda memahami konsep memaafkan diri sendiri, mencintai diri, dan menyingkirkan hal-hal yang tidak penting dari pikiran. Cara pikir yang membebaskan ini memungkinkan Anda membangun keberanian untuk mengubah dan mengabaikan batasan yang mungkin Anda berlakukan bagi diri Anda.</item>
+        <item>Good Vibes, Good Life adalah buku tentang mewujudkan apa yang Anda inginkan, hidup bermakna, dan menghargai hal-hal kecil. Penulis menjelaskan bagaimana menjadi bahagia dengan diri sendiri dengan menerima apa yang sudah ada. Dengan pengetahuan ini sebagai landasan, Anda dapat mulai mewujudkannya segera.</item>
+        <item>Banyak hal dalam hidup ini yang sebenarnya hanya masalah kecil, tapi kita memperlakukannya sebagai masalah besar. Sebenarnya, dengan membentuk perspektif baru bahwa masalah-masalah itu memang kecil, kita akan mempunyai lebih banyak waktu untuk memikirkan hal-hal yang benar-benar merupakan masalah besar.
+            Dengan gaya tulisan yang mudah dipahami, buku ini menyajikan cara-cara membentuk perspektif yang lebih positif tersebut sehingga kita akan belajar untuk berdamai dengan diri sendiri dan lebih peduli. Hidup kita akan lebih terfokus pada masa kini, hubungan kita dengan orang lain akan menjadi lebih baik, dan batin kita akan menjadi lebih tenang.</item>
+        <item>Sebuah Seni untuk Bersikap Bodo Amat adalah buku pertama karya Mark Manson, seorang narablog kenamaan dengan lebih dari 2 juta pembaca. Ia tinggal di kota New York. </item>
+        <item>"Berpikirlah Besar dan hidup Anda akan luar biasa. Anda akan meraih kebahagiaan, pendapatan, dan teman-teman yang luar biasa. Tuailah juga rasa hormat sesama. Berpikir besar itu dahsyat!" Pernahkah Anda memikirkan atau mengucapkan salah satu dari kalimat-kalimat di bawah ini? "Tak ada lagi peluang untuk memimpin karena sudah banyak pemimpin di luar sana". "Apa yang terjadi, terjadilah. Bagian kita adalah menerima suratan takdir". "Kesuksesan itu tidak sepadan dengan harga yang harus Anda bayar. Jangan jual jiwa Anda".</item>
+        <item>Kesuksesan dalam mengelola uang tidak selalu tentang apa yang Anda ketahui. Ini tentang bagaimana Anda berperilaku. Dan perilaku sulit untuk diajarkan, bahkan kepada orang yang sangat pintar sekalipun. Seorang genius yang kehilangan kendali atas emosinya bisa mengalami bencana keuangan. Sebaliknya, orang biasa tanpa pendidikan finansial bisa kaya jika mereka punya sejumlah keahlian terkait perilaku yang tidak berhubungan dengan ukuran kecerdasan formal.
+            Uang, investasi, keuangan pribadi, dan keputusan bisnis biasanya diajarkan sebagai bidang berbasis matematika dengan data dan rumus memberi tahu kita apa yang harus dilakukan. Namun, di dunia nyata orang tidak membuat keputusan finansial di spreadsheet. Mereka membuatnya di meja makan, atau di ruang rapat, di mana sejarah pribadi, pandangan unik Anda tentang dunia, ego, kebanggaan, pemasaran, dan berbagai insentif bercampur. Dalam The Psychology of Money, penulis pemenang penghargaan, Morgan Housel membagikan 19 cerita pendek yang mengeksplorasi cara-cara aneh orang berpikir tentang uang dan mengajari Anda cara memahami salah satu topik terpenting dalam hidup dengan lebih baik. Morgan membuat cerita pendek tersebut dengan menggunakan sudut pandang perilaku manusia sehingga setelah selesai membaca buku ini, pembaca akan menemukan sudut pandang baru dalam menyikapi duit yang dimiliki. Nah, supaya kamu mengetahui cara-cara untuk mengelola keuangan dengan baik, yuk baca buku The Psychology of Money.</item>
+        <item>Kebiasaan adalah Rahasia Keberhasilan. Travis, seorang pemuda broken home degan orang tua pecandu obat, berkali-kali dipecat dari pekerjaan karena tidak bisa mengendalikan emosi. Namun sesudah menjalani pelatihan pegawai Starbucks yang mengajarkan kekuatan tekad, Travis kini sukses menjadi manajer dua cabang kafe terkenal itu. Seorang CEO baru memegang salah satu perusahaan raksasa Amerika. Perintah pertamanya adalah menumbuhkan kepedulian keselamatan kerja-dan hasilnya saham perusahaan itu, Alcoa, menjadi salah satu yang berkinerja terbaik di Dow Jones.</item>
+        <item>Filosofi Teras adalah sebuah buku pengantar filsafat Stoa yang dibuat khusus sebagai panduan moral anak muda. Buku ini ditulis untuk menjawab permasalahan tentang tingkat kekhawatiran yang cukup tinggi dalam skala nasional, terutama yang dialami oleh anak muda. </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/atomichabits</item>
+        <item>@drawable/bicaraadaseninya</item>
+        <item>@drawable/beranitidakdisukai</item>
+        <item>@drawable/janganmasalah</item>
+        <item>@drawable/bodoamat</item>
+        <item>@drawable/themagicofthinkingbig</item>
+        <item>@drawable/goodvibesgoodlife</item>
+        <item>@drawable/psychologyofmoney</item>
+        <item>@drawable/thepowerofhabit</item>
+        <item>@drawable/filosofiteras</item>
+    </integer-array>
+</resources>
